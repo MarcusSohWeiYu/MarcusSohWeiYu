@@ -1,6 +1,6 @@
 # Hi, I'm Marcus Soh 👋
 
-### AI Software Engineer | Founding Team @ ProcoLink | AI Enthusiast @ ComGuys
+### Founding Team @ ProcoLink | AI Software Engineer @ ComGuys
 
 Welcome to my corner of GitHub! I’m Marcus, an AI Software Engineer with a passion for building practical AI solutions that help SMEs thrive.
 
