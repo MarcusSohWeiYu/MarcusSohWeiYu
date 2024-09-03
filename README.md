@@ -10,7 +10,7 @@ I’ve had the privilege of working with some amazing teams and companies, like:
 
 - **ProcoLink**
 - **Ernst & Young (EY)**
-- **Computer Guys**
+- **Computer Guys (CG)**
 - **Singapore National Youth Council (NYC)**
 
 At these places, I’ve brought AI to the forefront, helping streamline processes, enhance customer service, and ignite innovation. Whether it's automating mundane tasks or boosting customer satisfaction, I love finding ways AI can make a real difference.
