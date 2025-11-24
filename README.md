@@ -1,9 +1,6 @@
 # Hi, I'm Marcus Soh 👋
 
-### Founding AI Software Engineer @ ProcoLink
-
-Welcome to my corner of GitHub! I’m Marcus, an AI Software Engineer with a passion for building ***AI Solutions For Businesses***
-
+### Currently building my 1ST SAAS
 
 # 🚀 What I Do
 
